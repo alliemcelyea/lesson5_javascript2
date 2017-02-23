@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(February 23, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Allison McElyea)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This project introduces the fundamental commands of JavaScript by creating a calculator that calculates a person's income tax.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://alliemcelyea.github.io/lesson5_javascript2/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (We learned the concept of using 'else' and 'if' statements to create new pathways.)
+2. (We learned how to create a clear method ourselves.)
+3. (We learned how to build arrays.)
